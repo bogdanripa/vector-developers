@@ -1,0 +1,9 @@
+{
+	"defaults": {
+		"Steps": {
+			"name": "Current steps value",
+			"value": "s%s",
+			"type": "SYSTEM_VARS"
+		}
+	}
+}
