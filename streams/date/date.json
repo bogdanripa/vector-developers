@@ -1,0 +1,46 @@
+{
+	"renderOptions": {
+		"Display option": {
+			"type": "GRID_LAYOUT",
+			"order": 0
+		}
+	},
+	"settings": {
+		"Display option": [{
+			"name": "19",
+			"type": "DIGITAL_TIME",
+			"value": "d%d"
+		}, {
+			"name": "THURSDAY",
+			"type": "DIGITAL_TIME",
+			"value": "d%A"
+		}, {
+			"name": "THU",
+			"type": "DIGITAL_TIME",
+			"value": "d%a"
+		}, {
+			"name": "THU 19",
+			"type": "DIGITAL_TIME",
+			"value": "d%a %d"
+		}, {
+			"name": "JUN",
+			"type": "DIGITAL_TIME",
+			"value": "m%b"
+		}, {
+			"name": "JUNE",
+			"type": "DIGITAL_TIME",
+			"value": "m%B"
+		}, {
+			"name": "6",
+			"type": "DIGITAL_TIME",
+			"value": "m%m"
+		}]
+	},
+	"defaults": {
+		"Display option": {
+			"name": "THU 19",
+			"type": "DIGITAL_TIME",
+			"value": "d%a %d"
+		}
+	}
+}
